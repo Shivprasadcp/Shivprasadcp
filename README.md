@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Shivprasadcp
-- 👀 I’m interested in GenAI, ReactJS
+- 👀 I’m interested in GenAI, ReactJS , NextJs , TypeScript , Tailwind CSS
 - 🌱 I’m currently learning Important Tech Stacks
-- 💞️ I’m looking to collaborate on  LLM Projects
+- 💞️ I’m looking to collaborate on  LLM Projects and Frontend Development Projects
 - 📫 How to reach me shivprasadcp02@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am Serious
+
 
 <!---
 Shivprasadcp/Shivprasadcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
