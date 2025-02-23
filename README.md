@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivprasadcp
-- 👀 I’m interested in GenAI, ReactJS , NextJs , TypeScript , Tailwind CSS
-- 🌱 I’m currently learning Important Tech Stacks
+- 👀 I’m interested and having working experience in  ReactJS , NextJs , TypeScript , Tailwind CSS , AWS , Nodejs
+- 🌱 I’m am keen to work and keep learning the important tech stacks
 - 💞️ I’m looking to collaborate on  LLM Projects and Frontend Development Projects
 - 📫 How to reach me shivprasadcp02@gmail.com
 - 😄 Pronouns: He
